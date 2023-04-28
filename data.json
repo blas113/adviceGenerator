@@ -1,0 +1,24 @@
+{
+    "advices": [
+      {
+        "id": 1,
+        "text": "Primero la trampa, despues el queso."
+      },
+      {
+        "id": 2,
+        "text": "Un gran poder conlleva una gran responsavilidad"
+      },
+      {
+        "id": 3,
+        "text": "Winter is comming"
+      },
+      {
+        "id": 4,
+        "text": "Que la fuerza te acompañe."
+      },
+      {
+        "id": 5,
+        "text": "Cumple sus sueños quien resiste"
+      }
+    ]
+  }
